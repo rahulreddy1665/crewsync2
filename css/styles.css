@@ -3100,6 +3100,7 @@ img.u-pull-left {
     width: var(--logo-width);
     margin: 0;
     vertical-align: bottom;
+    border-radius: 50%;
 }
 
 /* --------------------------------------------------------------------
